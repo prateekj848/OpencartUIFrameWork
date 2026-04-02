@@ -71,7 +71,6 @@ public class LoginPage {
 //		 driver.findElement(loginbtn).click();
 //		 String title=driver.getTitle();
 //		 return new AccountsPage(driver);
-		 
 	 }
 	 
 	 public RegisterPage navigateToRegisterPage()
